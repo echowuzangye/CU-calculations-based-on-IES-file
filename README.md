@@ -8,4 +8,4 @@
 * `IES LM-75-19` Guide to Goniometer Measurements and Types, and Photometric Coordinate Systems
 * Joseph M. Illuminating Engineering: From Edison's Lamp to the Led 2nd Edition
 
-_
+-------------------------------------------------------------------------------
