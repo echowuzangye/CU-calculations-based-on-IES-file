@@ -9,3 +9,7 @@
 * Joseph M. Illuminating Engineering: From Edison's Lamp to the Led 2nd Edition
 
 -------------------------------------------------------------------------------
+### Coefficient of Utilization (CU)
+* CU is the fraction of the initial lamp lumens that ultimately reaches the work plane, both directly and from reflection.
+* CU includes both the efficiency of the luminaire in releasing lamp lumens into the interior space and the efficiency of the room surfaces in redirecting these lumens to the work plane.
+* CU table is usually provided when the luminaire is tested as Indoor luminaires.
