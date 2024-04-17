@@ -5,6 +5,6 @@
 | 3.ies     | Indoor                | asymmetric      | 360°        | yes            | Deliver  | yes                     | 13359.57                  | 13359.57            | 13359.57      |
 | 4.ies     | Indoor                | bilateral       | 180°        | yes            | RAB      | yes                     | 5821.76                   | 5821.76             | 5821.76       |
 | 5.ies     | Indoor                | quadrilateral   | 90°         | yes            | ITL      | yes                     | 753.8                     | 753.8               | 753.8         |
-| 6.ies     | Indoor                | asymmetric      | 360°        | yes            | n/a      | no                      | 9230.16                   | 9230.16             | 9230.16       |
+| 6.ies     | Indoor                | asymmetric      | 360°        | yes            | n/a      | yes                      | 9230.16                   | 9230.16             | 9230.16       |
 | 7.ies     | Indoor                | axial symmetric | 0°          | yes            | ITL      | yes                     | 531.98                    | 531.98              | 531.98        |
 | 8.ies     | Roadway               | bilateral       | 180°        | no (1°/4°/5°)  | RAB      | yes                     | 828.32                    | 828.32              | 828.32        |
