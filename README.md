@@ -18,3 +18,7 @@
 * The luminaire spacing criterion (SC) is a classification technique for interior luminaires relating to the spread or
 distribution of the illuminance on a horizontal plane. It tests the uniformity of horizontal illuminance at two pairs of
 selected points to estimate the probable extreme limit of acceptable luminaire spacing.
+* The luminaire spacing criterion only suggests a maximum spacing at which the horizontal illuminance is reasonably
+uniform. When other criteria are considered, such as overlap between luminaires, vertical illuminance, shadowing,
+and illuminance distribution above the work plane, it generally is found that luminaires need to be installed at some
+spacing-to-mounting height ratio less than the value of the luminaire spacing criterion.
